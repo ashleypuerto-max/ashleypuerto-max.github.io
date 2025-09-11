@@ -1,0 +1,19 @@
+body {
+    background: rgb(176, 23, 23);
+    color: rgb(176, 23, 23);
+    padding: 10px;
+    font-family: Arial, sans-serif;
+}
+
+#all-contents {
+    max-width: 800px;
+    margin: auto;
+}
+
+/* navigation menu*/ 
+nav {
+    background: rgb(176, 23, 23)
+    margin: 0 auto;
+    display: flex;
+    padding 10px;
+}
